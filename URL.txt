@@ -1,0 +1,1 @@
+the entered data url is : https://www.google.com
